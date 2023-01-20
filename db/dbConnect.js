@@ -1,14 +1,14 @@
 // external imports
-require('dotenv').config();
 const mongoose = require("mongoose");
+require('dotenv').config()
 
-const DB_URI = `mongodb+srv://bombsoldier:w$t@e@z82hufSWh@cluster0.ld5n3bl.mongodb.net/Fullstack-test?retryWrites=true&w=majority`
+
 
 
 async function dbConnect() {
   // use mongoose to connect this app to our database on mongoDB using the DB_URL (connection string)
   mongoose
-    .connect(DB_URI,
+    .connect(process.env.DB_URL,
       {
         //   these are options to ensure that the connection is done properly
         useNewUrlParser: true,

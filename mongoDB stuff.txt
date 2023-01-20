@@ -1,3 +1,3 @@
-bombsoldier//w$t@e@z82hufSWh
+bombsoldier//NqzaOdBuvtboekWU
 
-mongodb+srv://bombsoldier:w$t@e@z82hufSWh@cluster0.ld5n3bl.mongodb.net/authDB?retryWrites=true&w=majority
+mongodb+srv://bombsoldier:NqzaOdBuvtboekWU@cluster0.ld5n3bl.mongodb.net/?retryWrites=true&w=majority
