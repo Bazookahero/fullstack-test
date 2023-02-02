@@ -1,3 +1,0 @@
-bombsoldier//NqzaOdBuvtboekWU
-
-mongodb+srv://bombsoldier:NqzaOdBuvtboekWU@cluster0.ld5n3bl.mongodb.net/?retryWrites=true&w=majority
